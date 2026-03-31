@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1774618136297,
+    "name": "Yuliia Lo",
+    "phone": "06767676767",
+    "email": "gfgghh@gmail.com",
+    "address": "jujujujuj",
+    "subject": "",
+    "message": "kikikiki",
+    "status": "New",
+    "createdAt": "2026-03-27T13:28:56.297Z"
+  },
+  {
+    "id": 1774618398056,
+    "name": "Viktoria Ol",
+    "phone": "454545454",
+    "email": "wer@gmail.com",
+    "address": "Werder",
+    "subject": "",
+    "message": "sdsdsdd",
+    "status": "New",
+    "createdAt": "2026-03-27T13:33:18.056Z"
+  },
+  {
+    "id": 1774955911277,
+    "name": "Sweta Mo",
+    "phone": "4545455",
+    "email": "wer@gmail.com",
+    "address": "Werder",
+    "subject": "",
+    "message": "aaaaaaaaaaaaaaaaaa",
+    "status": "New",
+    "createdAt": "2026-03-31T11:18:31.277Z"
+  }
+]
