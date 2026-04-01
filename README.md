@@ -3,7 +3,7 @@
 This is a full-stack web application for a professional landscape design studio. The project features a modern user interface, a portfolio of completed works, and an administrative panel for content management.
 
 ## 🚀 Live Demo
-[PASTE YOUR VERCEL LINK HERE]
+(https://repository-landscape.vercel.app/)
 
 ## ✨ Features
 * **Dynamic Portfolio:** Showcase of landscape design projects with high-quality images.
@@ -26,4 +26,4 @@ This is a full-stack web application for a professional landscape design studio.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/julia-koz/landscape-studio-final.git](https://github.com/julia-koz/landscape-studio-final.git)
+   git clone [https://github.com/julia-koz/landscape-studio-final.git](https://github.com/julia-koz/landscape-studio-final.git)](https://github.com/julia-koz/repository_landscape-studio.git)
